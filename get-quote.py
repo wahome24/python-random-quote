@@ -1,4 +1,4 @@
-def main():
+def trial():
   print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -7,4 +7,4 @@ def main():
 
   #print(quotes)
 
-main()
+trial()
